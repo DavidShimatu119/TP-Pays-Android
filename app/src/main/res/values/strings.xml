@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mes Pays</string>
+
+    <string name="Finlande">Finlande</string>
+    <string name="Helsinki">Helsinki</string>
+    <string name="FIN">FIN</string>
+
+    <string name="Irlande">Irlande</string>
+    <string name="Dublin">Dublin</string>
+    <string name="IRL">IRL</string>
+
+    <string name="Islande">Islande</string>
+    <string name="Reykjavik">Reykjavik</string>
+    <string name="ISL">ISL</string>
+
+    <string name="Mexique">Mexique</string>
+    <string name="Mexico">Mexico</string>
+    <string name="MEX">MEX</string>
+
+    <string name="Nigeria">Nigeria</string>
+    <string name="Abuja">Abuja</string>
+    <string name="NGA">NGA</string>
+
+    <string name="Norvege">Norvege</string>
+    <string name="Oslo">Oslo</string>
+    <string name="NOR">NOR</string>
+
+    <string name="NouvelleZelande">NouvelleZelande</string>
+    <string name="Wellington">Wellington</string>
+    <string name="NZL">NZL</string>
+
+    <string name="RDCongo">RDCongo</string>
+    <string name="Kinshasa">Kinshasa</string>
+    <string name="COD">COD</string>
+
+    <string name="RSudAfricaine">RSudAfricaine</string>
+    <string name="Pretoria">Pretoria</string>
+    <string name="ZAF">ZAF</string>
+
+    <string name="EtatsUnis">EtatsUnis</string>
+    <string name="Washington">Washington</string>
+    <string name="USA">USA</string>
+
+
+
+</resources>
