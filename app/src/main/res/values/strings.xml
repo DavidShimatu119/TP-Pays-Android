@@ -1,46 +1,53 @@
 <resources>
-    <string name="app_name">Mes Pays</string>
+    <string name="app_name">Mes Pays Interactifs</string>
 
     <string name="Finlande">Finlande</string>
     <string name="Helsinki">Helsinki</string>
     <string name="FIN">FIN</string>
+    <string name="finlande_desc">La Finlande est connue pour ses aurores boréales et ses milliers de lacs.</string>
 
     <string name="Irlande">Irlande</string>
     <string name="Dublin">Dublin</string>
     <string name="IRL">IRL</string>
+    <string name="irlande_desc">L\'île d\'Émeraude est célèbre pour ses paysages verdoyants et sa culture celte.</string>
 
     <string name="Islande">Islande</string>
     <string name="Reykjavik">Reykjavik</string>
     <string name="ISL">ISL</string>
+    <string name="islande_desc">Terre de glace et de feu, connue pour ses volcans et ses sources thermales.</string>
 
     <string name="Mexique">Mexique</string>
     <string name="Mexico">Mexico</string>
     <string name="MEX">MEX</string>
+    <string name="mexique_desc">Célèbre pour sa cuisine épicée, ses plages et ses pyramides mayas.</string>
 
     <string name="Nigeria">Nigeria</string>
     <string name="Abuja">Abuja</string>
     <string name="NGA">NGA</string>
+    <string name="nigeria_desc">Le géant de l\'Afrique, connu pour sa culture dynamique et son industrie cinématographique.</string>
 
-    <string name="Norvege">Norvege</string>
+    <string name="Norvege">Norvège</string>
     <string name="Oslo">Oslo</string>
     <string name="NOR">NOR</string>
+    <string name="norvege_desc">Réputée pour ses fjords profonds et ses montagnes spectaculaires.</string>
 
-    <string name="NouvelleZelande">NouvelleZelande</string>
+    <string name="NouvelleZelande">Nouvelle-Zélande</string>
     <string name="Wellington">Wellington</string>
     <string name="NZL">NZL</string>
+    <string name="nz_desc">Célèbre pour ses paysages de films et sa culture maorie unique.</string>
 
-    <string name="RDCongo">RDCongo</string>
+    <string name="RDCongo">RD Congo</string>
     <string name="Kinshasa">Kinshasa</string>
     <string name="COD">COD</string>
+    <string name="rdc_desc">Un pays au cœur de l\'Afrique avec une immense forêt équatoriale et le fleuve Congo.</string>
 
-    <string name="RSudAfricaine">RSudAfricaine</string>
+    <string name="RSudAfricaine">Afrique du Sud</string>
     <string name="Pretoria">Pretoria</string>
     <string name="ZAF">ZAF</string>
+    <string name="sa_desc">La nation arc-en-ciel, célèbre pour ses safaris et son histoire marquante.</string>
 
-    <string name="EtatsUnis">EtatsUnis</string>
+    <string name="EtatsUnis">États-Unis</string>
     <string name="Washington">Washington</string>
     <string name="USA">USA</string>
-
-
-
+    <string name="usa_desc">Une puissance mondiale avec des paysages variés et une culture d\'influence globale.</string>
 </resources>
